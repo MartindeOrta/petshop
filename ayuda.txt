@@ -1,0 +1,19 @@
+
+ ganache-cli
+
+
+
+
+npm init -y
+npm install --save-dev hardhat
+npx hardhat
+y n n
+
+npx hardhat compile
+ npm i @nomicfoundation/hardhat-toolbox
+ npm i @openzeppelin/contract
+ npx hardhat compile
+ npx hardhat flatten contracts/token.sol >  flattend.sol 
+
+
+ abi.hashex.org
